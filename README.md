@@ -1,3 +1,3 @@
 # Inventory
 
-A simple inventory tool built using C++.
+A simple CLI inventory tool built using C++.
