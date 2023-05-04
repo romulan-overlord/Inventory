@@ -1,3 +1,3 @@
 # Inventory
 
-A simple CLI inventory tool built using C++.
+A simple cli inventory tool built using C++ and file streaming.
